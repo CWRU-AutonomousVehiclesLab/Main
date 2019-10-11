@@ -18,13 +18,13 @@ New SnowJoke Software:
 Use the following for each device:
 
 ### Arduinos:
-Front: https://github.com/CWRU-AutonomousVehiclesLab/Project-Raptor-Arduino-Steering
+Steering [![Build Status](https://travis-ci.org/CWRU-AutonomousVehiclesLab/Project-Raptor-Arduino-Steering.svg?branch=master)](https://travis-ci.org/CWRU-AutonomousVehiclesLab/Project-Raptor-Arduino-Steering): https://github.com/CWRU-AutonomousVehiclesLab/Project-Raptor-Arduino-Steering
 
-Middle: https://github.com/CWRU-AutonomousVehiclesLab/Project-Raptor-Arduino-Central-Controller
+Central [![Build Status](https://travis-ci.org/CWRU-AutonomousVehiclesLab/Project-Raptor-Arduino-Central-Controller.svg?branch=master)](https://travis-ci.org/CWRU-AutonomousVehiclesLab/Project-Raptor-Arduino-Central-Controller): https://github.com/CWRU-AutonomousVehiclesLab/Project-Raptor-Arduino-Central-Controller
 
-Back: https://github.com/CWRU-AutonomousVehiclesLab/Project-Raptor-Arduino-Velocity
+Velocity [![Build Status](https://travis-ci.org/CWRU-AutonomousVehiclesLab/Project-Raptor-Arduino-Velocity.svg?branch=master)](https://travis-ci.org/CWRU-AutonomousVehiclesLab/Project-Raptor-Arduino-Velocity): https://github.com/CWRU-AutonomousVehiclesLab/Project-Raptor-Arduino-Velocity
 
-Light: https://github.com/CWRU-AutonomousVehiclesLab/Project-Raptor-Arduino-Lights
+Light [![Build Status](https://travis-ci.org/CWRU-AutonomousVehiclesLab/Project-Raptor-Arduino-Lights.svg?branch=master)](https://travis-ci.org/CWRU-AutonomousVehiclesLab/Project-Raptor-Arduino-Lights): https://github.com/CWRU-AutonomousVehiclesLab/Project-Raptor-Arduino-Lights
 
 
 ### AAEONS:
@@ -32,7 +32,7 @@ Front: https://github.com/CWRU-AutonomousVehiclesLab/Project-Raptor-AAeon-Front
 
 Back: https://github.com/CWRU-AutonomousVehiclesLab/Project-Raptor-AAeon-Back
 
-## TX2:
+### TX2:
 https://github.com/CWRU-AutonomousVehiclesLab/Project-Raptor-TX2
 
 ## Others
